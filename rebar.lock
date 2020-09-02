@@ -1,5 +1,5 @@
 [{<<"my_awesome_dep">>,
   {git_subdir,"https://github.com/Kuroneer/rebar314_dialyzer_test_dep.git",
-              {ref,"7c81fdc92821ef38163ddfabd31d781d0a3bd3ed"},
+              {ref,"929c2a43cc303edd39927bd51bdf24b5b9aee639"},
               "bindings/erlang"},
   0}].
