@@ -6,7 +6,8 @@
   {applications,
    [kernel,
     stdlib,
-    my_awesome_dep
+    my_awesome_dep,
+    pobox
    ]},
   {env,[]},
   {modules, []}
